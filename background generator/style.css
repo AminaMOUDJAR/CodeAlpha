@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&family=Noto+Color+Emoji&family=Pacifico&family=Raleway:wght@100;300;500&display=swap');
+
+body{
+    /* font-family: "Audiowide", sans-serif; */
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    top:10%;
+    background:linear-gradient(to right ,rgb(192, 170, 192),rgb(196, 18, 48));
+}
+h1 {
+    font: 600 3.5em ; 
+    color:white;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width:100%;
+
+}
+h2{
+    font:600 1.5em ;
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.02em;
+}
